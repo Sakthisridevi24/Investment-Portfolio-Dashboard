@@ -47,18 +47,6 @@ This Power BI dashboard provides a comprehensive analysis of an investment portf
 
 ---
 
-## 📂 Dataset
-
-Investment Portfolio Dataset (Sample Data)
-
----
-
-## 📸 Dashboard Preview
-*(Screenshots will be added here after uploading.)*
-
-
----
-
 ## 🚀 Future Enhancements
 
 - Forecasting
