@@ -1,4 +1,4 @@
-# 📊 Investment Portfolio Dashboard
+# 📊 Investment Portfolio Dashboard (Power BI)
 
 ## 📌 Project Overview
 This Power BI dashboard provides a comprehensive analysis of an investment portfolio by tracking portfolio value, returns, dividend yield, asset allocation, and risk distribution. It enables users to make data-driven investment decisions through interactive visualizations.
